@@ -23,12 +23,35 @@ jobs:
         key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
         restore-keys: |
           ${{ runner.os }}-pip-
+    - uses: octokit/graphql-action@v2.x
+      id: get_latest_release
+      with:
+        query: |
+           {
+             search(query: "org:AliceO2Group is:pr author:ktf is:closed", type: ISSUE, last: 10) {
+               edges {
+                 node {
+                   ... on PullRequest {
+                     url
+                     title
+                     createdAt
+                   }
+                 }
+               }
+             }
+           }
+        owner: "AliceO2Group"
+        repo: "AliceO2"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Install Python dependencies
       run: |
         python -m pip install -r requirements.txt
     - name: Update README
       run: |-
-        echo "This is a test" > README.md
+        cat <<\EOF > README.md
+        ${{ steps.get_latest_release.outputs.data }}
+        EOF
         cat README.md
     - name: Commit and push if changed
       run: |-
