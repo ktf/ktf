@@ -28,7 +28,7 @@ jobs:
       with:
         query: |
            {
-             search(query: "org:AliceO2Group is:pr author:ktf is:closed", type: ISSUE, last: 10) {
+             search(query: "org:AliceO2Group is:pr author:ktf is:closed", type: ISSUE, last: 5) {
                edges {
                  node {
                    ... on PullRequest {
@@ -50,7 +50,7 @@ jobs:
     - name: Update README
       run: |-
         cat <<\EOF > README.md
-        # Recent PRs to AliceO2
+        ## Recent contributions to AliceO2
         EOF
         cat <<\EOF | jq -r '.search.edges[].node | "- [\(.title)](\(.url))"' >> README.md
         ${{ steps.get_latest_release.outputs.data }}
