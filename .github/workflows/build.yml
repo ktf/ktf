@@ -50,6 +50,9 @@ jobs:
     - name: Update README
       run: |-
         cat <<\EOF > README.md
+        # Recent PRs to AliceO2
+        EOF
+        cat <<\EOF | jq -r '.search.edges[].node | "- [\(.title)](\(.url))"' >> README.md
         ${{ steps.get_latest_release.outputs.data }}
         EOF
         cat README.md
