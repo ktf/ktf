@@ -1,11 +1,6 @@
-# Recent PRs to AliceO2
+## Recent contributions to AliceO2
 - [DPL: use Tracy rather than custom tracing code](https://github.com/AliceO2Group/AliceO2/pull/3991)
 - [DPL: More preparations for multithreading](https://github.com/AliceO2Group/AliceO2/pull/3987)
 - [DPL: remove spurious printouts during topology creation](https://github.com/AliceO2Group/AliceO2/pull/3984)
 - [DPL: progress towards multithreading support](https://github.com/AliceO2Group/AliceO2/pull/3983)
 - [DPL: refactor stats accumulation](https://github.com/AliceO2Group/AliceO2/pull/3979)
-- [DPL: remove unneeded field for backoff factor](https://github.com/AliceO2Group/AliceO2/pull/3977)
-- [DPL: use a proper context for socket polling](https://github.com/AliceO2Group/AliceO2/pull/3976)
-- [DPL: move TracyClient include at the top](https://github.com/AliceO2Group/AliceO2/pull/3974)
-- [DPL: extract helper functions](https://github.com/AliceO2Group/AliceO2/pull/3973)
-- [Initial import of the current D(A)PL doc](https://github.com/AliceO2Group/analysis-framework/pull/1)
