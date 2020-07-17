@@ -40,8 +40,6 @@ jobs:
                }
              }
            }
-        owner: "AliceO2Group"
-        repo: "AliceO2"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Install Python dependencies
