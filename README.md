@@ -3,4 +3,4 @@
 - [DPL: lower severity for debug message](https://github.com/AliceO2Group/AliceO2/pull/5372)
 - [DPL: send error count in a delayed manner](https://github.com/AliceO2Group/AliceO2/pull/5371)
 - [Improve driver client](https://github.com/AliceO2Group/AliceO2/pull/5370)
-- [Dump stacktrace on timeout](https://github.com/AliceO2Group/AliceO2/pull/5367)
+- [Disallow non fatal tests](https://github.com/AliceO2Group/AliceO2/pull/5369)
