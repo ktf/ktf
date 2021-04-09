@@ -1,6 +1,6 @@
 ## Recent contributions to AliceO2
+- [Allow cleaning pr check from github actions](https://github.com/AliceO2Group/AliceO2/pull/5893)
 - [DPL: provide a `--spawners <N>` option](https://github.com/AliceO2Group/AliceO2/pull/5881)
 - [Add CODEOWNERS to /Detectors/Calibration](https://github.com/AliceO2Group/AliceO2/pull/5875)
 - [DPL: throw exception if bad type requested for option](https://github.com/AliceO2Group/AliceO2/pull/5862)
-- [DPL GUI: improve legend](https://github.com/AliceO2Group/AliceO2/pull/5845)
-- [DPL: clean slot when it needs to be reused](https://github.com/AliceO2Group/AliceO2/pull/5842)
+- [DPL: allow custom orbit when using timer / enumeration](https://github.com/AliceO2Group/AliceO2/pull/5852)
