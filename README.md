@@ -3,4 +3,4 @@
 - [Comment out unused variable](https://github.com/AliceO2Group/O2Physics/pull/361)
 - [Comment out unneeded code](https://github.com/AliceO2Group/O2Physics/pull/359)
 - [DPL: baby steps going to Lifetime::Dangling](https://github.com/AliceO2Group/AliceO2/pull/7752)
-- [DPL GUI: mark fatal messages in red](https://github.com/AliceO2Group/AliceO2/pull/7750)
+- [DPL GUI: fix crash on macOS](https://github.com/AliceO2Group/AliceO2/pull/7751)
