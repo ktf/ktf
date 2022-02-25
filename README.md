@@ -3,4 +3,4 @@
 - [DPL: add method to rescan DataRelayer / TimesliceIndex](https://github.com/AliceO2Group/AliceO2/pull/8214)
 - [DPL: provide missing timeout](https://github.com/AliceO2Group/AliceO2/pull/8207)
 - [Revert "DPL: stop timer after EoS has been reached"](https://github.com/AliceO2Group/AliceO2/pull/8206)
-- [Avoid issues with fmt 8.1.1](https://github.com/AliceO2Group/O2Physics/pull/549)
+- [DPL: additional tracing / debug statements](https://github.com/AliceO2Group/AliceO2/pull/8199)
