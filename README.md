@@ -3,4 +3,4 @@
 - [DPL Analysis: add version to the table size](https://github.com/AliceO2Group/AliceO2/pull/12197)
 - [DPL: C++20 fixes](https://github.com/AliceO2Group/AliceO2/pull/12189)
 - [Fix warning on unused result](https://github.com/AliceO2Group/AliceO2/pull/12185)
-- [DPL: improve homegeneous_apply_ref](https://github.com/AliceO2Group/AliceO2/pull/12178)
+- [DPL: flush messages immediately when notifying state change](https://github.com/AliceO2Group/AliceO2/pull/12179)
