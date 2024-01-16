@@ -1,6 +1,6 @@
 ## Recent contributions to AliceO2
+- [Revert "DPL Analysis: update index binding with type hash"](https://github.com/AliceO2Group/AliceO2/pull/12538)
 - [DPL: discard timeframe in case there is nothing which needs processing](https://github.com/AliceO2Group/AliceO2/pull/12536)
+- [DPL GUI: add GUI to enable / disable driver signposts](https://github.com/AliceO2Group/AliceO2/pull/12533)
+- [Ability to turn on / off the logger from the GUI.](https://github.com/AliceO2Group/AliceO2/pull/12529)
 - [Drop unused output](https://github.com/AliceO2Group/AliceO2/pull/12519)
-- [DPL: remove need for special engineering type](https://github.com/AliceO2Group/AliceO2/pull/12515)
-- [DPL: detect when a Lifetime::Timeframe output is missing](https://github.com/AliceO2Group/AliceO2/pull/12503)
-- [Drop --old option for real](https://github.com/AliceO2Group/AliceO2/pull/12501)
