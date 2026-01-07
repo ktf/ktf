@@ -2,5 +2,5 @@
 - [DataModel: improve DataHeader formatter](https://github.com/AliceO2Group/AliceO2/pull/14942)
 - [[Common,PWGCF,PWGHF,PWGLF,DPG,Trigger] Drop old name for BetheBlochAleph function](https://github.com/AliceO2Group/O2Physics/pull/14397)
 - [Avoid early initialization of Cling](https://github.com/AliceO2Group/AliceO2/pull/14930)
+- [Adapt to use newly introduced TPCBaseRecSim package](https://github.com/AliceO2Group/QualityControl/pull/2630)
 - [MathUtils: move BetheBlochAleph to a common header](https://github.com/AliceO2Group/AliceO2/pull/14918)
-- [Cleanup jobutils2 to work on ARM](https://github.com/AliceO2Group/AliceO2/pull/14901)
