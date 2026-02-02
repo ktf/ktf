@@ -3,4 +3,4 @@
 - [[Infrastructure] Disable triggers for O2 linter workflow](https://github.com/AliceO2Group/O2Physics/pull/14711)
 - [DPL: improve type_to_task_name function](https://github.com/AliceO2Group/AliceO2/pull/15006)
 - [Revert "DPL Analysis: cleanup AnalysisTask.h and ASoA.h"](https://github.com/AliceO2Group/AliceO2/pull/15005)
-- [DPL: disable early forwarding for output proxies](https://github.com/AliceO2Group/AliceO2/pull/15000)
+- [[PWGJE] Use Precompiled headers for Jet Substructure tasks](https://github.com/AliceO2Group/O2Physics/pull/14690)
