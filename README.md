@@ -3,4 +3,4 @@
 - [DPL: move away from MessageSet::header / payload](https://github.com/AliceO2Group/AliceO2/pull/15228)
 - [DPL: migrate away from MessageSet](https://github.com/AliceO2Group/AliceO2/pull/15227)
 - [DPL: more validation of MessageSet::header / payload replacement](https://github.com/AliceO2Group/AliceO2/pull/15226)
-- [DPL: make sure DataRelayer benchmark works again](https://github.com/AliceO2Group/AliceO2/pull/15216)
+- [DPL: treat --ccdb-fetchers like --readers](https://github.com/AliceO2Group/AliceO2/pull/15217)
