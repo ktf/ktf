@@ -1,6 +1,6 @@
 ## Recent contributions to AliceO2
+- [Allow retries](https://github.com/AliceO2Group/AliceO2/pull/15441)
 - [DPL MCP: add server to inspect the perf results](https://github.com/AliceO2Group/AliceO2/pull/15438)
 - [DPL: fix mismatched type in signpost](https://github.com/AliceO2Group/AliceO2/pull/15435)
 - [DPL: reduce number of spurious warnings](https://github.com/AliceO2Group/AliceO2/pull/15434)
 - [DPL: add debug information for rate limiting](https://github.com/AliceO2Group/AliceO2/pull/15433)
-- [DPL MCP: expose the version in the MCP](https://github.com/AliceO2Group/AliceO2/pull/15432)
