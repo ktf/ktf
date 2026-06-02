@@ -1,6 +1,6 @@
 ## Recent contributions to AliceO2
+- [DPL MCP: add ability to inspect analyses on hyperloop](https://github.com/AliceO2Group/AliceO2/pull/15475)
 - [Improve ability to inspect trains on hyperloop](https://github.com/AliceO2Group/AliceO2/pull/15465)
 - [DPL MCP: a server to investigate running trains on hyperloop](https://github.com/AliceO2Group/AliceO2/pull/15451)
 - [DPL Analysis: avoid memory churn related to slices](https://github.com/AliceO2Group/AliceO2/pull/15447)
 - [StepTHn: do a pre lookup for the bin using a uniform grid](https://github.com/AliceO2Group/AliceO2/pull/15444)
-- [StepTHn: speedup filling](https://github.com/AliceO2Group/AliceO2/pull/15443)
