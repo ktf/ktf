@@ -1,6 +1,6 @@
 ## Recent contributions to AliceO2
+- [[PWGDQ,PWGHF,PWGJE] More clean-ups for PCH](https://github.com/AliceO2Group/O2Physics/pull/18318)
 - [[Common] Improve Common PCH](https://github.com/AliceO2Group/O2Physics/pull/18314)
 - [[PWGUD] Add PCH for PWGUD](https://github.com/AliceO2Group/O2Physics/pull/18310)
 - [[PWGJE] Add PCH for PWGJE](https://github.com/AliceO2Group/O2Physics/pull/18309)
-- [[PWGDQ] Add PCH for PWGDQ](https://github.com/AliceO2Group/O2Physics/pull/18307)
-- [[PWGHF] Add PCH to speedup PWGHF compilation](https://github.com/AliceO2Group/O2Physics/pull/18304)
+- [[PWGHF] Add PCH for PWGHF](https://github.com/AliceO2Group/O2Physics/pull/18308)
