@@ -1,6 +1,6 @@
 ## Recent contributions to AliceO2
+- [GPU: more Metal bringup changes](https://github.com/AliceO2Group/AliceO2/pull/16064)
+- [DPL Analysis: look for AOD metadata up to the allowed parent level](https://github.com/AliceO2Group/AliceO2/pull/16061)
+- [GPU: smaller thread groups for the merger track fit and the tracking data on Metal](https://github.com/AliceO2Group/AliceO2/pull/16059)
 - [GPU Metal: reconstruction on Metal bringup](https://github.com/AliceO2Group/AliceO2/pull/16052)
 - [DPL Analysis: retry remote reads and fail over to other replicas in the native AOD reader](https://github.com/AliceO2Group/AliceO2/pull/16051)
-- [Avoid having OpenMP as a dependency of the whole O2](https://github.com/AliceO2Group/AliceO2/pull/16047)
-- [[PWGCF] Handle the case with more than 3 axis](https://github.com/AliceO2Group/O2Physics/pull/18564)
-- [DPL Analysis: do not build the tasks a device does not run](https://github.com/AliceO2Group/AliceO2/pull/16036)
