@@ -1,6 +1,6 @@
 ## Recent contributions to AliceO2
+- [GPU Metal: accept the registration of host memory](https://github.com/AliceO2Group/AliceO2/pull/16067)
 - [GPU: more Metal bringup changes](https://github.com/AliceO2Group/AliceO2/pull/16064)
 - [DPL Analysis: look for AOD metadata up to the allowed parent level](https://github.com/AliceO2Group/AliceO2/pull/16061)
 - [GPU: smaller thread groups for the merger track fit and the tracking data on Metal](https://github.com/AliceO2Group/AliceO2/pull/16059)
 - [GPU Metal: reconstruction on Metal bringup](https://github.com/AliceO2Group/AliceO2/pull/16052)
-- [DPL Analysis: retry remote reads and fail over to other replicas in the native AOD reader](https://github.com/AliceO2Group/AliceO2/pull/16051)
