@@ -1,6 +1,6 @@
 ## Recent contributions to AliceO2
+- [GPU Clusterizer: synchronize the cluster transfer to the host before sorting the clusters](https://github.com/AliceO2Group/AliceO2/pull/16168)
 - [GPU: document the contents of a standalone dataset and how to produce one](https://github.com/AliceO2Group/AliceO2/pull/16135)
 - [CCDB: also read std::array members written by libstdc++ on libc++ builds](https://github.com/AliceO2Group/AliceO2/pull/16127)
 - [GPU Metal: fence only threadgroup memory in the work-group collectives](https://github.com/AliceO2Group/AliceO2/pull/16126)
 - [DPL: avoid InheritsFrom call](https://github.com/AliceO2Group/AliceO2/pull/16116)
-- [GPU Metal: run the tracklet constructor with 128 threads per group](https://github.com/AliceO2Group/AliceO2/pull/16113)
